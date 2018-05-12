@@ -1,5 +1,5 @@
 _repo: The-Booming-of-Acre-Hill-and-Other-Reminiscences-of-Urban-and-Suburban-Life_11309
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Gibson, Charles Dana
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26456'
     url: http://www.gutenberg.org/2009/agents/26456
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dana_Gibson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bangs, John Kendrick
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11309#The-Booming-of-Acre-Hill-and-Other-Reminiscences-of-Urban-and-Suburban-Life
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
